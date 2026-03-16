@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Space-Safety: Orientation-Agnostic Object Detection
 Project for SkyHack 2.0 | Team Binary Brains
 

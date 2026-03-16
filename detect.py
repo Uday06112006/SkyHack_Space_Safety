@@ -6,4 +6,3 @@ def main():
     model.predict(source='sample.jpg', save=True)
 
 if __name__ == "__main__":
-    main()
